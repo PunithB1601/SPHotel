@@ -1,4 +1,4 @@
-a=5
-b=10
-c=a+b
-print(c)
+
+print("welcome to github")
+print("this is my first commit")
+
